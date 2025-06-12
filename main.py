@@ -7,4 +7,4 @@ if artist.lower()=="frank ocean":
   print("OMG! He is magical! I lobby for you to listen to channel orange right now!")
 
 else:
-print(artist.title()+"is cool too! but we all know that Frank ocean is the GOAT!")
+  print(artist.title()+"is cool too! but we all know that Frank ocean is the GOAT!")
