@@ -1,4 +1,4 @@
-# Blonded-detector-
+# Blonded-detector
 a beginner friendly python bot that checks whether your fav artist is frank ocean 
 
 # What it does
